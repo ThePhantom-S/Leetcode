@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/ThePhantom-S/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
