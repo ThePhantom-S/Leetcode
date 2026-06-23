@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThePhantom-S/Leetcode/tree/master/0001-two-sum) |
+| [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ThePhantom-S/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
