@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThePhantom-S/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ThePhantom-S/Leetcode/tree/master/0011-container-with-most-water) |
 | [0414-third-maximum-number](https://github.com/ThePhantom-S/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/ThePhantom-S/Leetcode/tree/master/0183-customers-who-never-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ThePhantom-S/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ThePhantom-S/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
