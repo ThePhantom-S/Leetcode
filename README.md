@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThePhantom-S/Leetcode/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/ThePhantom-S/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/ThePhantom-S/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
