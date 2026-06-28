@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ThePhantom-S/Leetcode/tree/master/0011-container-with-most-water) |
 | [0414-third-maximum-number](https://github.com/ThePhantom-S/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ThePhantom-S/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/ThePhantom-S/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/ThePhantom-S/Leetcode/tree/master/0506-relative-ranks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ThePhantom-S/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThePhantom-S/Leetcode/tree/master/0011-container-with-most-water) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ThePhantom-S/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
 | ------- |
